@@ -1,0 +1,15 @@
+  .logo-header{
+    background-color: #2b9348;
+  }
+  .navbar{
+    background-color: #2b9348;
+  }
+  .navbar .navbar-nav .nav-item .nav-link i{
+    color: #ffffff!important;
+  }
+  .navbar .navbar-nav .nav-item .nav-link:focus, .navbar .navbar-nav .nav-item .nav-link:hover{
+    background-color: transparent!important;
+  }
+  .sidebar.sidebar-style-2 .nav.nav-primary>.nav-item.active>a{
+    background-color: #2b9348!important;
+  }
